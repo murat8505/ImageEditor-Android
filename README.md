@@ -6,7 +6,7 @@ For edit image,supply stickers filter rotate crop
 <br/>
 动态效果图
 <br/>
-<img src="https://github.com/siwangqishiq/ImageEditAndroid/blob/master/screens/demo1.gif" width=300 />
+<img src="https://github.com/xuehuayous/ImageEditor-Android/blob/master/screens/demo1.gif?raw=true" width=300 />
 <br/>
 <br/>
 <img src="https://github.com/siwangqishiq/ImageEditAndroid/blob/master/screens/demo2.gif" width=300 />
